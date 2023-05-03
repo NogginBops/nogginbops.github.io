@@ -2,7 +2,8 @@ title: Julius Häger
 description: My portfolio
 author: "Julius Häger"
 
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima
 
 minima:
   skin: dark
