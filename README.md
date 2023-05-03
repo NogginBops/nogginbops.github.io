@@ -1,5 +1,3 @@
-# Julius Häger
-
 Hello! My name is Julius Häger and I'm a Swedish graphics programmer.
 
 I'm the current maintainer of [OpenTK](https://github.com/opentk/opentk), a platform abstraction layer and OpenGL bindings for C#, and this is my work.
