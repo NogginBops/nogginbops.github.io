@@ -17,9 +17,17 @@ In 2022 me and Hugo Dettner presented two new methods for efficiently rendering 
 
 <a href="http://www.diva-portal.org/smash/get/diva2:1701157/FULLTEXT01.pdf"><img src="img/ptex.png" alt="Image showing the individual ptex quads." width="100%"></a>
 
+# Area lights using Linearly Transformed Cosines
+
+<img src="img/area_lights_3.png" width="80%">
+<img src="img/area_lights_4.png" width="80%">
+<img src="img/area_lights_1.png" width="80%">
+
+I implemented this as my project for the course DH2323. I had previously seen the paper for [Linearly Transformed Cosines](https://eheitzresearch.wordpress.com/415-2/) and had been interested in implementing it and this was a perfect oppurtunity to do so.
+
 # Real-time GPU path tracer
 
-<img src="img/path-tracer.png" alt="Path traced Cornell box." width="80%">
+<img src="img/path-tracer2.png" alt="Path traced Cornell box." width="80%">
 
 I made a small real-time GPU path tracer for the course DH2323 at KTH. 
 It's written in C# using OpenTK, and has BVH acceleration.
