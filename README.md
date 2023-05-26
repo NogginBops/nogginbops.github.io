@@ -40,15 +40,15 @@ A "from scratch" game engine written with OpenTK. It features a PBR render pipel
 
 ![sponza](img/sponza_editor.png)
 
-![gizmo-and-undo](img/misc/gizmo_and_undo.mp4)
+<video src="https://user-images.githubusercontent.com/3778357/236922766-f7f19a92-adf8-4a11-8964-0e06f8dcf793.mp4" controls="controls" style="max-width: 730px;"></video>
 
 Video showing transform gizmo and undo functionality.
 
-![shader-reload](img/misc/live_shader_reload.mp4)
+<video src="https://user-images.githubusercontent.com/3778357/236922495-14b9d709-3af1-483a-9f68-4f89cb2e93fc.mp4" controls="controls" style="max-width: 730px;"></video>
 
 Video showing live shader reloading.
 
-![frustum-culling](img/misc/frustum_culling.mp4)
+<video src="https://user-images.githubusercontent.com/3778357/236922373-4e67a1ce-a7af-4d61-8172-3daa2b880e4d.mp4" controls="controls" style="max-width: 730px;"></video>
 
 Video showing frustum culling.
 
@@ -100,16 +100,16 @@ Mandelbrot set visualization.
 
 Particle system with shadowed particles, creating an illusion of volumetric shadow.
 
-![](img/misc/boxes.png)
-![](img/misc/boxes2.png)
-![](img/misc/boxes3.png)
+![boxes](img/misc/boxes.png)
+![boxes2](img/misc/boxes2.png)
+![boxes3](img/misc/boxes3.png)
 
 Debugging visualizations created when implementing Cascaded Shadow Maps.
 
 ![imgui](img/misc/imgui.png)
 
-![imgui](img/misc/imgui_text_edit.webm)
+[imgui_text_edit.webm](https://user-images.githubusercontent.com/3778357/236923069-2151ee3b-207a-486c-8099-ca39c7c256bf.webm)
 
-![imgui](img/misc/color_picker.mp4)
+<video src="https://user-images.githubusercontent.com/3778357/236923033-33bd9357-6faf-4f4a-a4c5-4c72ab3036af.mp4" controls="controls" style="max-width: 730px;"></video>
 
 An Immediate Mode GUI I made.
