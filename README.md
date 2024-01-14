@@ -17,6 +17,19 @@ In 2022 me and Hugo Dettner presented two new methods for efficiently rendering 
 
 <a href="http://www.diva-portal.org/smash/get/diva2:1701157/FULLTEXT01.pdf"><img src="img/ptex.png" alt="Image showing the individual ptex quads." width="100%"></a>
 
+# [Volumetric fog and clustered forward rendering](https://github.com/NogginBops/DD2470_Clustered_Volume_Renderer)
+
+Volumetric fog implemented using frustum aligned volume texture and clustered forward rendering implemented for my project in a course about advanced graphics.
+
+<p float="left">
+<img src="img/Volumetric/Volumetric4.PNG" width="49%">
+<img src="img/Volumetric/Volumetric.PNG" width="49%">
+</p>
+<p float="left">
+<img src="img/Volumetric/Volumetric3.PNG" width="49%">
+<img src="img/Volumetric/Volumetric2.PNG" width="49%">
+</p>
+
 # Area lights using Linearly Transformed Cosines
 
 <img src="img/area_lights_3.png" width="80%">
