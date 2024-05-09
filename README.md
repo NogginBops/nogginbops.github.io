@@ -1,6 +1,15 @@
+<div>
+<a href="https://www.linkedin.com/in/julius-h%C3%A4ger/"><img width="20em" src="img/marketing/LI-In-Bug.png" alt="LinkedIn"/></a>
+<a href="https://github.com/NogginBops/"><img width="20em" src="img/marketing/github-mark-white.png" alt="GitHub"/></a>
+<a href="mailto:julius_hager@hotmail.com"><img width="20em" src="img/marketing/mail.svg" alt="Mail"/></a>
+</div>
+
 Hello! My name is Julius Häger and I'm a Swedish graphics programmer.
 
 I'm the current maintainer of [OpenTK](https://github.com/opentk/opentk), a platform abstraction layer and OpenGL bindings for C#, and this is my work.
+
+
+
 
 # [OpenTK](http://github.com/opentk/opentk) maintainer
 
