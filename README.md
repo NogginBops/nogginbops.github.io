@@ -8,9 +8,6 @@ Hello! My name is Julius Häger and I'm a Swedish graphics programmer.
 
 I'm the current maintainer of [OpenTK](https://github.com/opentk/opentk), a platform abstraction layer and OpenGL bindings for C#, and this is my work.
 
-
-
-
 # [OpenTK](http://github.com/opentk/opentk) maintainer
 
 OpenTK provides OpenGL bindings and window creation and management for C#, and has over 3.5 million downloads on [Nuget](https://www.nuget.org/packages/OpenTK/).
@@ -19,6 +16,12 @@ I've been maintainer for OpenTK since November 2020.
 During that time we've worked hard on our new OpenGL bindings generator and platform abstraction layer targeting Win32, Linux, and macos.
 
 <a href="http://github.com/opentk/opentk"><img src="img/OpenTK.png" alt="OpenTK banner." width="100%"></a>
+
+# Master's thesis
+
+I'm currently working on my master's thesis in spectral upsamling with fluorescense. Here is a little sneak-peek of what I've done so far.
+
+<img src="img/fluorescent/quartz1.png" alt="Fluorescent crystal." width="100%">
 
 # [Two New Methods for Real-Time Ptex](http://www.diva-portal.org/smash/get/diva2:1701157/FULLTEXT01.pdf)
 
