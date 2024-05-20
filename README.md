@@ -61,9 +61,9 @@ I implemented this as my project for the course DH2323. I had previously seen th
 
 # Real-time GPU path tracer
 
-<img src="img/path-tracer2.png" alt="Path traced Cornell box." width="90%">
+<img src="img/path-tracer4.png" alt="Path traced Cornell box." width="90%">
 
-I made a small real-time GPU path tracer for the course DH2323 at KTH. 
+I made a small real-time GPU path tracer for the course DH2323 at KTH.
 It's written in C# using OpenTK, and has BVH acceleration.
 
 <img src="img/misc/bunny_bvh.png" alt="Stanford bunny containd within lots of BVH boxes." width="90%">
