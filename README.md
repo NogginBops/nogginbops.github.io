@@ -15,7 +15,7 @@ I'm the current maintainer of [OpenTK](https://github.com/opentk/opentk), a plat
 
 # [OpenTK](http://github.com/opentk/opentk) maintainer
 
-OpenTK provides OpenGL bindings and window creation and management for C#, and has over 3.5 million downloads on [Nuget](https://www.nuget.org/packages/OpenTK/).
+OpenTK provides OpenGL bindings and window creation and management for C#, and has over 5.8 million downloads on [Nuget](https://www.nuget.org/packages/OpenTK/).
 
 I've been maintainer for OpenTK since November 2020. 
 During that time we've worked hard on our new OpenGL bindings generator and platform abstraction layer targeting Win32, Linux, and macos.
@@ -141,7 +141,7 @@ Debugging visualizations created when implementing Cascaded Shadow Maps.
 
 ![imgui](img/misc/imgui.png)
 
-[imgui_text_edit.webm](https://user-images.githubusercontent.com/3778357/236923069-2151ee3b-207a-486c-8099-ca39c7c256bf.webm)
+<video src="https://user-images.githubusercontent.com/3778357/236923069-2151ee3b-207a-486c-8099-ca39c7c256bf.webm" controls="controls"></video>
 
 <video src="https://user-images.githubusercontent.com/3778357/236923033-33bd9357-6faf-4f4a-a4c5-4c72ab3036af.mp4" controls="controls" style="max-width: 100%;"></video>
 
