@@ -4,6 +4,11 @@
 <a href="mailto:julius_hager@hotmail.com"><img width="20em" src="img/marketing/mail.svg" alt="Mail"/></a>
 </div>
 
+{% comment %} 
+    FIXME: Replace width=100% with something else
+    so that browser zoom can work properly.
+{% endcomment %}
+
 Hello! My name is Julius Häger and I'm a Swedish graphics programmer.
 
 I'm the current maintainer of [OpenTK](https://github.com/opentk/opentk), a platform abstraction layer and OpenGL bindings for C#, and this is my work.
@@ -15,11 +20,11 @@ OpenTK provides OpenGL bindings and window creation and management for C#, and h
 I've been maintainer for OpenTK since November 2020. 
 During that time we've worked hard on our new OpenGL bindings generator and platform abstraction layer targeting Win32, Linux, and macos.
 
-<a href="http://github.com/opentk/opentk"><img src="img/OpenTK.png" alt="OpenTK banner." width="100%"></a>
+<a href="http://github.com/opentk/opentk"><img src="img/OpenTK.png" alt="OpenTK banner." width="60%"></a>
 
 # Master's thesis
 
-I'm currently working on my master's thesis in spectral upsamling with fluorescense. Here is a little sneak-peek of what I've done so far.
+I'm currently working on my master's thesis in spectral upsamling with fluorescense. Here is a little sneak-peek of my work.
 
 <img src="img/fluorescent/quartz1.png" alt="Fluorescent crystal." width="100%">
 
@@ -27,7 +32,7 @@ I'm currently working on my master's thesis in spectral upsamling with fluoresce
 
 In 2022 me and Hugo Dettner presented two new methods for efficiently rendering and filtering ptex on the GPU in real-time as part of our Batchelor's thesis. One of our presented methods outperformed previous work while having quality matching previous state of the art.
 
-<a href="http://www.diva-portal.org/smash/get/diva2:1701157/FULLTEXT01.pdf"><img src="img/ptex.png" alt="Image showing the individual ptex quads." width="100%"></a>
+<a href="http://www.diva-portal.org/smash/get/diva2:1701157/FULLTEXT01.pdf"><img src="img/ptex.png" alt="Image showing the individual ptex quads." width="50%"></a>
 
 # [Volumetric fog and clustered forward rendering](https://github.com/NogginBops/DD2470_Clustered_Volume_Renderer)
 
@@ -44,20 +49,23 @@ Volumetric fog implemented using frustum aligned volume texture and clustered fo
 
 # Area lights using Linearly Transformed Cosines
 
-<img src="img/area_lights_3.png" width="80%">
-<img src="img/area_lights_4.png" width="80%">
-<img src="img/area_lights_1.png" width="80%">
+<p float="left">
+<img src="img/area_lights_3.png" width="49%">
+<img src="img/area_lights_4.png" width="49%">
+</p>
+
+<img src="img/area_lights_1.png" width="100%">
 
 I implemented this as my project for the course DH2323. I had previously seen the paper for [Linearly Transformed Cosines](https://eheitzresearch.wordpress.com/415-2/) and had been interested in implementing it and this was a perfect oppurtunity to do so.
 
 # Real-time GPU path tracer
 
-<img src="img/path-tracer2.png" alt="Path traced Cornell box." width="80%">
+<img src="img/path-tracer2.png" alt="Path traced Cornell box." width="90%">
 
 I made a small real-time GPU path tracer for the course DH2323 at KTH. 
 It's written in C# using OpenTK, and has BVH acceleration.
 
-<img src="img/misc/bunny_bvh.png" alt="Stanford bunny containd within lots of BVH boxes." width="80%">
+<img src="img/misc/bunny_bvh.png" alt="Stanford bunny containd within lots of BVH boxes." width="90%">
 
 # Game engine using OpenTK/C#
 
@@ -65,15 +73,15 @@ A "from scratch" game engine written with OpenTK. It features a PBR render pipel
 
 ![sponza](img/sponza_editor.png)
 
-<video src="https://user-images.githubusercontent.com/3778357/236922766-f7f19a92-adf8-4a11-8964-0e06f8dcf793.mp4" controls="controls" style="max-width: 730px;"></video>
+<video src="https://user-images.githubusercontent.com/3778357/236922766-f7f19a92-adf8-4a11-8964-0e06f8dcf793.mp4" controls="controls" style="max-width: 100%;"></video>
 
 Video showing transform gizmo and undo functionality.
 
-<video src="https://user-images.githubusercontent.com/3778357/236922495-14b9d709-3af1-483a-9f68-4f89cb2e93fc.mp4" controls="controls" style="max-width: 730px;"></video>
+<video src="https://user-images.githubusercontent.com/3778357/236922495-14b9d709-3af1-483a-9f68-4f89cb2e93fc.mp4" controls="controls" style="max-width: 100%;"></video>
 
 Video showing live shader reloading.
 
-<video src="https://user-images.githubusercontent.com/3778357/236922373-4e67a1ce-a7af-4d61-8172-3daa2b880e4d.mp4" controls="controls" style="max-width: 730px;"></video>
+<video src="https://user-images.githubusercontent.com/3778357/236922373-4e67a1ce-a7af-4d61-8172-3daa2b880e4d.mp4" controls="controls" style="max-width: 100%;"></video>
 
 Video showing frustum culling.
 
