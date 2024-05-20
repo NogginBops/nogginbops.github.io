@@ -108,7 +108,7 @@ A small charming game about a candle finding it's place. Make in 48 hours for th
 
 Block Buster was created in 48h during the 2019 Global Game Jam in a team of 9 people.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yMX827OTp2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/yMX827OTp2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <img src="img/blockbuster_gameplay.png" alt="Gameplay screenshot of candela." width="80%">
 
