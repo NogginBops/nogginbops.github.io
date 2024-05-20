@@ -143,6 +143,6 @@ Debugging visualizations created when implementing Cascaded Shadow Maps.
 
 [imgui_text_edit.webm](https://user-images.githubusercontent.com/3778357/236923069-2151ee3b-207a-486c-8099-ca39c7c256bf.webm)
 
-<video src="https://user-images.githubusercontent.com/3778357/236923033-33bd9357-6faf-4f4a-a4c5-4c72ab3036af.mp4" controls="controls" style="max-width: 730px;"></video>
+<video src="https://user-images.githubusercontent.com/3778357/236923033-33bd9357-6faf-4f4a-a4c5-4c72ab3036af.mp4" controls="controls" style="max-width: 100%;"></video>
 
 An Immediate Mode GUI I made.
