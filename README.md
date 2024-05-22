@@ -59,11 +59,11 @@ Volumetric fog implemented using frustum aligned volume texture and clustered fo
 
 I implemented this as my project for the course DH2323. I had previously seen the paper for [Linearly Transformed Cosines](https://eheitzresearch.wordpress.com/415-2/) and had been interested in implementing it and this was a perfect oppurtunity to do so.
 
-# Real-time GPU path tracer
+# Interactive GPU path tracer
 
 <img src="img/path-tracer4.png" alt="Path traced Cornell box." width="90%">
 
-I made a small real-time GPU path tracer for the course DH2323 at KTH.
+I made a small interactive GPU path tracer for the course DH2323 at KTH.
 It's written in C# using OpenTK, and has BVH acceleration.
 
 <img src="img/misc/bunny_bvh.png" alt="Stanford bunny containd within lots of BVH boxes." width="90%">
