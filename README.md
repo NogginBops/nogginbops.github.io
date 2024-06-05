@@ -90,13 +90,13 @@ Video showing frustum culling.
 
 <img src="img/metrovision.png" alt="Metro Vision start screen" width="80%">
 
-Metro vision was made during the 2020 GMTK Game Jam where I and a team of 8 other people made a innovative puzzler where your line of sight determines what controls/actions are available at your displosal.
+Metro vision was made during the 2020 GMTK Game Jam where I and a team of 8 other people made a innovative puzzler where your line of sight determines what controls/actions are available at your displosal. We made the game in Unity, and I was responsible for implementing the line-of-slight gameplay features and graphics.
 
 <img src="img/metrovision2.png" alt="Metro Vison gameplay screenshot showing that some controls are not in sight and as such not possible actions to take." width="80%">
 
 # [Candela](https://swedishpancaces.itch.io/candela)
 
-A small charming game about a candle finding it's place. Make in 48 hours for the 2017 GMTK Game Jam, in a team of 3 people.
+A small charming game about a candle finding it's place. Make in 48 hours for the 2017 GMTK Game Jam in Unity with a team of 3 people. In this jam I experimented a lot with Cinemachine dollys and tracking.
 
 <img src="img/candela_gameplay2.png" alt="Gameplay screenshot of candela." width="80%">
 
@@ -106,7 +106,7 @@ A small charming game about a candle finding it's place. Make in 48 hours for th
 
 # [Block buster](https://globalgamejam.org/2019/games/block-buster)
 
-Block Buster was created in 48h during the 2019 Global Game Jam in a team of 9 people.
+Block Buster was created in 48h during the 2019 Global Game Jam in Unity with a team of 9 people. On this project I worked on the random generation of cities, day and night cycle (glowing windows at nighttime), and hooking up an adaptive soundtrack.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/yMX827OTp2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
