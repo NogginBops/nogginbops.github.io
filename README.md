@@ -12,14 +12,14 @@
 
 Hello! My name is Julius Häger and I'm a Swedish graphics programmer.
 
-I'm the current maintainer of [OpenTK](https://github.com/opentk/opentk), a platform abstraction layer and OpenGL bindings for C#, and this is my work.
+I'm the current maintainer of [OpenTK](https://github.com/opentk/opentk), a platform abstraction layer and OpenGL and Vulkan bindings for C#, and this is my work.
 
 # [OpenTK](http://github.com/opentk/opentk) maintainer
 
-OpenTK provides OpenGL bindings and window creation and management for C#, and has over 5.8 million downloads on [Nuget](https://www.nuget.org/packages/OpenTK/).
+OpenTK provides OpenGL and Vulkan bindings and window creation and management for C#, and has over 6.3 million downloads on [Nuget](https://www.nuget.org/packages/OpenTK/).
 
 I've been maintainer for OpenTK since November 2020. 
-During that time we've worked hard on our new OpenGL bindings generator and platform abstraction layer targeting Win32, Linux, and macos.
+During that time we've worked hard on our new OpenGL bindings generator, Vulkan bindings generator, and platform abstraction layer targeting Win32, Linux, and macos.
 
 <a href="http://github.com/opentk/opentk"><img src="img/OpenTK.png" alt="OpenTK banner." width="60%"></a>
 
