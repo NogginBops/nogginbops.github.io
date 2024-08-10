@@ -2,7 +2,7 @@
 <a title="LinkedIn" href="https://www.linkedin.com/in/julius-h%C3%A4ger/"><img width="20em" src="img/marketing/LI-In-Bug.png" alt="LinkedIn"/></a>
 <a title="GitHub" href="https://github.com/NogginBops/"><img width="20em" src="img/marketing/github-mark-white.png" alt="GitHub"/></a>
 <a title="Mail" href="mailto:julius_hager@hotmail.com"><img width="20em" src="img/marketing/mail.svg" alt="Mail"/></a>
-<a title="Resume" href="https://drive.google.com/file/d/17Y0HHPqTZAvYFDZjSv1ByTtPPrUzANpa/view?usp=sharing"><img width="20em" src="img/marketing/resume.svg" alt="Resume"/></a>
+<a title="Resume" href="https://drive.google.com/file/d/1Dhs6SZs6AkxHk04IBPescqkon9XtnnJC/view?usp=drive_link"><img width="20em" src="img/marketing/resume.svg" alt="Resume"/></a>
 </div>
 
 {% comment %} 
