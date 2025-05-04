@@ -16,7 +16,7 @@ I'm the current maintainer of [OpenTK](https://github.com/opentk/opentk), a plat
 
 # [OpenTK](http://github.com/opentk/opentk) maintainer
 
-OpenTK provides OpenGL and Vulkan bindings and window creation and management for C#, and has over 6.3 million downloads on [Nuget](https://www.nuget.org/packages/OpenTK/).
+OpenTK provides OpenGL and Vulkan bindings and window creation and management for C#, and has over 8.0 million downloads on [Nuget](https://www.nuget.org/packages/OpenTK/).
 
 I've been maintainer for OpenTK since November 2020. 
 During that time we've worked hard on our new OpenGL bindings generator, Vulkan bindings generator, and platform abstraction layer targeting Win32, Linux, and macos.
@@ -68,6 +68,12 @@ It's written in C# using OpenTK, and has BVH acceleration.
 
 <img src="img/misc/bunny_bvh.png" alt="Stanford bunny containd within lots of BVH boxes." width="90%">
 
+# Bejeweled-like OpenTK demo
+
+This is a demo showing the new platform abstraction layer I built for OpenTK. No third-party libraries are used, everything from calling OS functions for opening a window and creating a graphics context to rendering refractions in the gems is all contained in OpenTK and the demo code.
+
+https://github.com/user-attachments/assets/d4dea48f-f241-4009-97d9-d13922958b4e
+
 # Game engine using OpenTK/C#
 
 A "from scratch" game engine written with OpenTK. It features a PBR render pipeline, cascaded shadow maps, frustum culling, and integrated physics using [BepuPhysics2](https://github.com/bepu/bepuphysics2). The engine also contains nice to have features such as live shader reloading.
@@ -85,6 +91,10 @@ Video showing live shader reloading.
 <video src="https://user-images.githubusercontent.com/3778357/236922373-4e67a1ce-a7af-4d61-8172-3daa2b880e4d.mp4" controls="controls" style="max-width: 100%;"></video>
 
 Video showing frustum culling.
+
+<img src="img/misc/vectorscope1.png" alt="Vectorscope visualization of colors in the scene" width="50%"><img src="img/misc/vectorscope2.png" alt="Vectorscope visualization of colors in the scene" width="50%">
+
+Vectorscope visualization of colors in the scene.
 
 # [Metro vision](https://marcuskaraker.itch.io/metrovision)
 
