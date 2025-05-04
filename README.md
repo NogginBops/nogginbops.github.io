@@ -25,7 +25,7 @@ During that time we've worked hard on our new OpenGL bindings generator, Vulkan 
 
 # Master's thesis
 
-I'm currently working on my master's thesis in fluoresence rendering in both spectral and non-spectral rendering engines.
+I'm currently working on my master's thesis in fluoresence rendering in both spectral and non-spectral rendering engines. The work involves writing a path tracer in C++ capable of both spectral and RGB fluorescence rendering.
 
 <img src="img/fluorescent/test_Spectral_Dragon3_Gold_Coating_Rho1.0_D65.png" alt="Fluorescent crystal." width="50%"><img src="img/fluorescent/test_Spectral_Dragon3_Gold_Coating_Rho1.0.png" alt="Fluorescent crystal." width="50%">
 
