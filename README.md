@@ -72,7 +72,7 @@ It's written in C# using OpenTK, and has BVH acceleration.
 
 This is a demo showing the new platform abstraction layer I built for OpenTK. No third-party libraries are used, everything from calling OS functions for opening a window and creating a graphics context to rendering refractions in the gems is all contained in OpenTK and the demo code.
 
-https://github.com/user-attachments/assets/d4dea48f-f241-4009-97d9-d13922958b4e
+<video src="https://github.com/NogginBops/nogginbops.github.io/main/raw/img/bejeweled-like.mp4" controls="controls" style="max-width: 100%;"></video>
 
 # Game engine using OpenTK/C#
 
