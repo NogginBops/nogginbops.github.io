@@ -21,19 +21,21 @@ OpenTK provides OpenGL and Vulkan bindings and window creation and management fo
 I've been maintainer for OpenTK since November 2020. 
 During that time we've worked hard on our new OpenGL bindings generator, Vulkan bindings generator, and platform abstraction layer targeting Win32, Linux, and macos.
 
-<a href="http://github.com/opentk/opentk"><img src="img/OpenTK.png" alt="OpenTK banner." width="60%"></a>
+<p align="center"><a href="http://github.com/opentk/opentk"><img src="img/OpenTK.png" alt="OpenTK banner." width="60%"></a></p>
 
-# Master's thesis
+# Master's thesis:<br/>[Using Quantum Dots to Model Fluorescence in Spectral and Tristimulus Rendering](https://drive.google.com/file/d/1WBvVfV2oLaQru6pW0oTgMjIgZckenzBS/view?usp=sharing)
 
-I'm currently working on my master's thesis in fluoresence rendering in both spectral and non-spectral rendering engines. The work involves writing a path tracer in C++ capable of both spectral and RGB fluorescence rendering.
+In my master's thesis I explore using quantum dots to model fluorescence in computer graphics. In my work I make significant simplifications to an existing model bringing render times down from 52 minutes down to 7 minutes. I also adapt and enable rendering this model in RGB light transport which was previously not possible. During this project I built a path tracer in C++ that can render using both spectral rendering and RGB rendering.
+
+<p align="center"><a href="https://drive.google.com/file/d/1WBvVfV2oLaQru6pW0oTgMjIgZckenzBS/view?usp=sharing"><img src="img/masters thesis.png" alt="Image showing the front page of the masters thesis, with the title and a fluorescent dragon illuminated by a blacklight." width="50%"></a></p>
 
 <img src="img/fluorescent/test_Spectral_Dragon3_Gold_Coating_Rho1.0_D65.png" alt="Fluorescent crystal." width="50%"><img src="img/fluorescent/test_Spectral_Dragon3_Gold_Coating_Rho1.0.png" alt="Fluorescent crystal." width="50%">
 
-# [Two New Methods for Real-Time Ptex](http://www.diva-portal.org/smash/get/diva2:1701157/FULLTEXT01.pdf)
+# Bachelor's thesis:<br/>[Two New Methods for Real-Time Ptex](http://www.diva-portal.org/smash/get/diva2:1701157/FULLTEXT01.pdf)
 
 In 2022 me and Hugo Dettner presented two new methods for efficiently rendering and filtering ptex on the GPU in real-time as part of our Batchelor's thesis. One of our presented methods outperformed previous work while having quality matching previous state of the art.
 
-<a href="http://www.diva-portal.org/smash/get/diva2:1701157/FULLTEXT01.pdf"><img src="img/ptex.png" alt="Image showing the individual ptex quads." width="50%"></a>
+<p align="center"><a href="http://www.diva-portal.org/smash/get/diva2:1701157/FULLTEXT01.pdf"><img src="img/ptex.png" alt="Image showing the individual ptex quads." width="50%"></a></p>
 
 # [Volumetric fog and clustered forward rendering](https://github.com/NogginBops/DD2470_Clustered_Volume_Renderer)
 
