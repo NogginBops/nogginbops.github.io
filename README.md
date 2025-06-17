@@ -25,7 +25,9 @@ During that time we've worked hard on our new OpenGL bindings generator, Vulkan 
 
 # Master's thesis:<br/>[Using Quantum Dots to Model Fluorescence in Spectral and Tristimulus Rendering](https://drive.google.com/file/d/1WBvVfV2oLaQru6pW0oTgMjIgZckenzBS/view?usp=sharing)
 
-In my master's thesis I explore using quantum dots to model fluorescence in computer graphics. In my work I make significant simplifications to an existing model bringing render times down from 52 minutes down to 7 minutes. I also adapt and enable rendering this model in RGB light transport which was previously not possible. During this project I built a path tracer in C++ that can render using both spectral rendering and RGB rendering.
+In my master's thesis I explore using quantum dots to model fluorescence in computer graphics. In my work I make significant simplifications to an existing model bringing render times down from 52 minutes down to 7 minutes, as well as identifying major issues relating to energy conservation and rigorously proving an alternative energy conservation factor. This model is then adapted to RGB rendering which was previously not possible.
+
+During this project I built a path tracer in C++ that can render using both spectral rendering and RGB rendering.
 
 <p align="center"><a href="https://drive.google.com/file/d/1WBvVfV2oLaQru6pW0oTgMjIgZckenzBS/view?usp=sharing"><img src="img/masters thesis.png" alt="Image showing the front page of the masters thesis, with the title and a fluorescent dragon illuminated by a blacklight." width="50%"></a></p>
 
