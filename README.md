@@ -31,7 +31,7 @@ During this project I built a path tracer in C++ that can render using both spec
 
 <p align="center"><a href="https://drive.google.com/file/d/1WBvVfV2oLaQru6pW0oTgMjIgZckenzBS/view?usp=sharing"><img src="img/masters thesis.png" alt="Image showing the front page of the masters thesis, with the title and a fluorescent dragon illuminated by a blacklight." width="50%"></a></p>
 
-<img src="img/fluorescent/test_Spectral_Dragon3_Gold_Coating_Rho1.0_D65.png" alt="Fluorescent crystal." width="50%"><img src="img/fluorescent/test_Spectral_Dragon3_Gold_Coating_Rho1.0.png" alt="Fluorescent crystal." width="50%">
+<img src="img/fluorescent/test_Spectral_Dragon3_Gold_Coating_Rho1.0_D65.png" alt="Standford Dragon illuminated by a typical daylight light showing a gold material." width="50%"><img src="img/fluorescent/test_Spectral_Dragon3_Gold_Coating_Rho1.0.png" alt="Standford Dragon illuminated by a UV light showing a rainbow colored flourescent coating." width="50%">
 
 # Bachelor's thesis:<br/>[Two New Methods for Real-Time Ptex](http://www.diva-portal.org/smash/get/diva2:1701157/FULLTEXT01.pdf)
 
