@@ -16,7 +16,7 @@ I'm the current maintainer of [OpenTK](https://github.com/opentk/opentk), a plat
 
 # [OpenTK](http://github.com/opentk/opentk) maintainer
 
-OpenTK provides OpenGL and Vulkan bindings and window creation and management for C#, and has over 8.0 million downloads on [Nuget](https://www.nuget.org/packages/OpenTK/).
+OpenTK provides OpenGL and Vulkan bindings and window creation and management for C#, and has over 13.0 million downloads on [Nuget](https://www.nuget.org/packages/OpenTK/).
 
 I've been maintainer for OpenTK since November 2020. 
 During that time we've worked hard on our new OpenGL bindings generator, Vulkan bindings generator, and platform abstraction layer targeting Win32, Linux, and macos.
