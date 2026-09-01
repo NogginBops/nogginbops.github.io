@@ -39,6 +39,17 @@ In 2022 me and Hugo Dettner presented two new methods for efficiently rendering 
 
 <p align="center"><a href="http://www.diva-portal.org/smash/get/diva2:1701157/FULLTEXT01.pdf"><img src="img/ptex.png" alt="Image showing the individual ptex quads." width="50%"></a></p>
 
+# [Introduction to Spectral Rendering presented at GameTown](https://1drv.ms/p/c/6ebe5b314a9fbf88/IQBwlMn7DGfOQqRkJKKcSvJ9ASgJ-FD_6XHlyxHaXLnAhHs?e=EsnSPs)
+
+I presented an introduction to spectral rendering and the challenges therein, like auhtoring spectral assets and efficient spectral rendering. The slides contain motivating examples for the challenges that spectral rendering can solve, most notably spectral response to changing light conditions are often not able to be captured in "normal" RGB rendering.
+
+<p align="center">
+<img src="img/spectral/spectral-vs-rgb.jpg" width="50%">
+<img src="img/spectral/reference.jpg" width="39.3%">
+</p>
+
+This shows a real-life reference image showing a red car becoming black under a high-pressure sodium lamp and how this effect can only be captured in spectral rendering. In RGB rendering this light interaction is lost.
+
 # [Volumetric fog and clustered forward rendering](https://github.com/NogginBops/DD2470_Clustered_Volume_Renderer)
 
 Volumetric fog implemented using frustum aligned volume texture and clustered forward rendering implemented for my project in a course about advanced graphics.
